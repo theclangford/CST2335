@@ -2,4 +2,8 @@
     <string name="app_name">Androidlabs</string>
     <string name="hello_message">"Hello World!"</string>
     <string name="ButtonText">"I\'m a button"</string>
+    <string name="WidgetText">"Login"</string>
+    <string name="LoginHint">"login name"</string>
+    <string name="Password">"password"</string>
+    <string name="SwitchText">"What does this do?"</string>
 </resources>
