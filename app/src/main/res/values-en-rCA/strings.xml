@@ -3,4 +3,8 @@
     <string name="app_name">Androidlabs</string>
     <string name="hello_message">"G'day bud!!"</string>
     <string name="ButtonText">"I\'m a button, bud"</string>
+    <string name="WidgetText">"Login bud"</string>
+    <string name="LoginHint">"login name, duder"</string>
+    <string name="Password">"password hoser"</string>
+    <string name="SwitchText">"What does this do, eh?"</string>
 </resources>
