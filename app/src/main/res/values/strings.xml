@@ -6,4 +6,13 @@
     <string name="LoginHint">"login name"</string>
     <string name="Password">"password"</string>
     <string name="SwitchText">"What does this do?"</string>
+    <string name="Login">"Login"</string>
+    <string name="dialog_message">"Do you want to finish the activity?"</string>
+    <string name="dialog_title">"Finished?"</string>
+    <string name="cancel">"cancel"</string>
+    <string name="ok">"ok"</string>
+    <string name="switch_On">"Switch is On"</string>
+    <string name="switch_Off">"Switch is Off"</string>
+    <string name="response">"Here is my response"</string>
+
 </resources>

@@ -6,5 +6,12 @@
     <string name="WidgetText">"Login bud"</string>
     <string name="LoginHint">"login name, duder"</string>
     <string name="Password">"password hoser"</string>
-    <string name="SwitchText">"What does this do, eh?"</string>
+    <string name="SwitchText">"What does this do,eh?"</string>
+    <string name="Login">"Login, eh"</string>
+    <string name="dialog_message">"Do you want to finish the activity, fella?"</string>
+    <string name="dialog_title">"Finished, eh?"</string>
+    <string name="switch_On">"Switch is On, eh"</string>
+    <string name="switch_Off">"Switch is Off,eh"</string>
+    <string name="response">"Here is my response, eh"</string>
+
 </resources>
