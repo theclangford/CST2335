@@ -14,5 +14,13 @@
     <string name="switch_On">"Switch is On"</string>
     <string name="switch_Off">"Switch is Off"</string>
     <string name="response">"Here is my response"</string>
-
+    <string name="checkBox">"CheckBox"</string>
+    <string name="radioButton">"RadioButton"</string>
+    <string name="chatButton">"Start Chat"</string>
+    <string name="send">"Send"</string>
+    <string name="weatherButton">"Weather Forecast"</string>
+    <string name="currentTemp">"Current temp:"</string>
+    <string name="minTemp">"Minimum temp:"</string>
+    <string name="maxTemp">"Maximum temp:"</string>
+    <string name="windSpeed">"Wind Speed:"</string>
 </resources>

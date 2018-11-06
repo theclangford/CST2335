@@ -25,6 +25,22 @@ public class StartActivity extends Activity {
             startActivityForResult(intent,50);
         });
 
+        Button chatButton = findViewById(R.id.chatButton);
+        chatButton.setOnClickListener(click->
+        {
+            Log.i(ACTIVITY_NAME, "User clicked Start Chat.");
+            Intent intent = new Intent(StartActivity.this, ChatWindow.class);
+            startActivityForResult(intent,50);
+        });
+
+        Button weatherButton = findViewById(R.id.weatherButton);
+        weatherButton.setOnClickListener(click ->
+        {
+            Log.i(ACTIVITY_NAME,"User clicked Weather Forecast." );
+            Intent intent = new Intent(StartActivity.this, WeatherForecast.class);
+            startActivityForResult(intent,60);
+        });
+
     }
     @Override
     public void onActivityResult(int requestCode, int responseCode, Intent data)
@@ -39,6 +55,8 @@ public class StartActivity extends Activity {
             toast.show();
         }
     }
+
+
     @Override
     protected void onResume(){
         Log.i(ACTIVITY_NAME, "In onResume");

@@ -21,5 +21,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/ButtonText" />
+    
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/chatButton"
+        android:text="@string/chatButton"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/weatherButton"
+        android:text="@string/weatherButton"/>
 
 </LinearLayout>

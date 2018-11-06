@@ -12,12 +12,14 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:gravity="fill"
+        android:text="@string/radioButton"
         android:layout_columnWeight="1"/>
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_columnWeight="1"
         android:id="@+id/checkBox"
+        android:text="@string/checkBox"
         android:gravity="fill"/>
     <Switch
         android:layout_height="wrap_content"

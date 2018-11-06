@@ -13,5 +13,13 @@
     <string name="switch_On">"Switch is On, eh"</string>
     <string name="switch_Off">"Switch is Off,eh"</string>
     <string name="response">"Here is my response, eh"</string>
-
+    <string name="checkBox">"CheckBox, eh"</string>
+    <string name="radioButton">"RadioButton, eh"</string>
+    <string name="chatButton">"Start Chat,eh"</string>
+    <string name="send">"Send,eh"</string>
+    <string name="weatherButton">"Weather, eh?"</string>
+    <string name="currentTemp">"Current temp duder:"</string>
+    <string name="minTemp">"Minimum temp duder:"</string>
+    <string name="maxTemp">"Maximum temp duder:"</string>
+    <string name="windSpeed">"Wind Speed duder:"</string>
 </resources>
